@@ -1,0 +1,3551 @@
+LandisData "Initial Communities"
+MapCode 1
+
+MapCode 12 
+pseumenz 20 30 50 100 130
+
+MapCode 13 
+pseumenz 40 70 280
+poputrem 50
+
+MapCode 15 
+pseumenz 80 90 60 160 140
+
+MapCode 17 
+pseumenz 170 350 120
+
+MapCode 11 
+pseumenz 180 220 230 500
+
+MapCode 14 
+pseumenz 240
+
+MapCode 24 
+pseumenz 30 80 40
+
+MapCode 21 
+pseumenz 70 50 60
+poputrem 50
+
+MapCode 22 
+pseumenz 110 150 100 120
+poputrem 40
+
+MapCode 23 
+pseumenz 90 140
+poputrem 70 60
+
+MapCode 25 
+pseumenz 160
+
+MapCode 26 
+pseumenz 130
+
+MapCode 31 
+pseumenz 70 60 40 110 270 130 170 160 180 200
+
+MapCode 33 
+pseumenz 50 20 190 240
+
+MapCode 35 
+pseumenz 120 80 90 150
+poputrem 50
+
+MapCode 34 
+pseumenz 100 250
+poputrem 20
+
+MapCode 32 
+pseumenz 210
+poputrem 60 40
+
+MapCode 37 
+pseumenz 230
+
+MapCode 41 
+pseumenz 30 60 90 180
+poputrem 70
+
+MapCode 42 
+pseumenz 40
+
+MapCode 44 
+pseumenz 50 70 80
+poputrem 60 50
+
+MapCode 45 
+pseumenz 100 140 170 250
+poputrem 90
+
+MapCode 47 
+pseumenz 120 150
+
+MapCode 61 
+pseumenz 40 30 100 190
+poputrem 40
+
+MapCode 64 
+
+MapCode 65 
+pseumenz 50
+
+MapCode 62 
+pseumenz 320
+
+MapCode 63 
+pseumenz 130 80 150 140
+
+MapCode 114 
+pseumenz 40 170 130
+
+MapCode 111 
+pseumenz 100 80 30 50
+poputrem 40
+
+MapCode 113 
+pseumenz 70 140 110 90 250
+
+MapCode 115 
+pseumenz 150 160
+poputrem 70 80
+
+MapCode 112 
+pseumenz 60 120
+
+MapCode 121 
+pseumenz 50 160 130 150 80 40 270 170
+poputrem 110 50 70 60
+
+MapCode 125 
+pseumenz 60 180
+
+MapCode 123 
+pseumenz 90 140 260 100 210
+poputrem 80
+
+MapCode 124 
+pseumenz 30 70
+poputrem 90
+
+MapCode 122 
+pseumenz 120
+
+MapCode 127 
+pseumenz 200
+
+MapCode 126 
+pseumenz 110
+
+MapCode 131 
+pseumenz 60 30 10 100
+
+MapCode 132 
+pseumenz 70 50 220 180
+poputrem 80 90
+
+MapCode 134 
+pseumenz 40 90 160 110 150 120 140
+
+MapCode 133 
+pseumenz 80 20
+poputrem 60
+
+MapCode 135 
+poputrem 70
+
+MapCode 144 
+pseumenz 50 40 130
+
+MapCode 141 
+pseumenz 30 60 10 90
+
+MapCode 142 
+pseumenz 70 120 140 100 110 530 250 200
+
+MapCode 143 
+pseumenz 20 80 290 400 170
+
+MapCode 145 
+pseumenz 470 160
+poputrem 100 60
+
+MapCode 146 
+pseumenz 240
+
+MapCode 147 
+poputrem 80
+
+MapCode 184 
+pseumenz 70 60 50
+poputrem 40
+
+MapCode 182 
+pseumenz 20 40 30 180 110 80
+poputrem 70 50
+
+MapCode 181 
+pseumenz 150 210 360 260 310 120 100
+
+MapCode 183 
+pseumenz 190 370 130 140
+
+MapCode 201 
+pseumenz 80 10 110 190 50 180
+
+MapCode 202 
+
+MapCode 203 
+pseumenz 70 60 100 370 200 300 140
+
+MapCode 204 
+pseumenz 90
+
+MapCode 205 
+pseumenz 130 240 120 160
+
+MapCode 206 
+pseumenz 400 280 170
+
+MapCode 207 
+pseumenz 260
+
+MapCode 214 
+pseumenz 70 80 90
+poputrem 50
+
+MapCode 213 
+pseumenz 40 60 50 160 180 380 330
+
+MapCode 212 
+pseumenz 10 190
+poputrem 60
+
+MapCode 211 
+pseumenz 210
+poputrem 80
+
+MapCode 215 
+pseumenz 240
+
+MapCode 216 
+pseumenz 170 200
+
+MapCode 217 
+pseumenz 250 130
+
+MapCode 222 
+pseumenz 50 100 240 580 150
+
+MapCode 224 
+pseumenz 60 90 70 110 170 440 420 200
+
+MapCode 225 
+pseumenz 80 120
+
+MapCode 223 
+pseumenz 40 260
+
+MapCode 221 
+pseumenz 180 550 520 500 510 530 140 130
+poputrem 50
+
+MapCode 227 
+pseumenz 160
+
+MapCode 244 
+pseumenz 190 180 150
+
+MapCode 241 
+pseumenz 40 50 30 60 160 200 330 290 320 230 220 110
+
+MapCode 242 
+pseumenz 130 80 100 120 90 140
+
+MapCode 243 
+pseumenz 70 240 280 170
+
+MapCode 245 
+pseumenz 370 210
+
+MapCode 247 
+pseumenz 270
+
+MapCode 251 
+pseumenz 70 80
+poputrem 30
+
+MapCode 253 
+pseumenz 50
+
+MapCode 252 
+pseumenz 40 140 60 30 190 170 90 110 100
+
+MapCode 255 
+pseumenz 150 160
+
+MapCode 281 
+pseumenz 50 60 280 140
+poputrem 30 50 70
+
+MapCode 282 
+pseumenz 70 200 220 330
+poputrem 80
+
+MapCode 285 
+pseumenz 80 290 130
+
+MapCode 287 
+pseumenz 230 210 180
+
+MapCode 283 
+pseumenz 120 160 270 190 150
+poputrem 20
+
+MapCode 284 
+pseumenz 90
+poputrem 60 40
+
+MapCode 292 
+pseumenz 70 60 180 110
+poputrem 80 40 50
+
+MapCode 293 
+pseumenz 90 20 160 130
+poputrem 90
+
+MapCode 295 
+pseumenz 80
+
+MapCode 291 
+pseumenz 40 50 170
+poputrem 60 70
+
+MapCode 294 
+pseumenz 100 120 240
+
+MapCode 297 
+pseumenz 200 140
+
+MapCode 301 
+pseumenz 10 90 50 290 270
+poputrem 40 50 60 70
+
+MapCode 302 
+pseumenz 70 80 120 110 140 100
+
+MapCode 306 
+pseumenz 210
+
+MapCode 304 
+pseumenz 250 220 320 260 240
+
+MapCode 311 
+pseumenz 50 60 10 160 130 120 80 90 100 220
+
+MapCode 314 
+pseumenz 40 140
+
+MapCode 316 
+pseumenz 200 170 180
+
+MapCode 317 
+pseumenz 70 150
+poputrem 70
+
+MapCode 312 
+pseumenz 110 230 270 240
+poputrem 40 30
+
+MapCode 313 
+poputrem 80
+
+MapCode 321 
+pseumenz 60 50 10 90 40 150 170
+
+MapCode 323 
+pseumenz 20 230 180 240
+
+MapCode 322 
+pseumenz 70 250 200 120 100
+
+MapCode 325 
+pseumenz 190 110 160 140
+
+MapCode 324 
+pseumenz 30 210 300
+
+MapCode 326 
+pseumenz 130
+
+MapCode 332 
+pseumenz 50 40 70 150 200 80
+poputrem 70 50
+
+MapCode 331 
+pseumenz 180 160
+
+MapCode 334 
+pseumenz 100 20 120 170
+
+MapCode 333 
+pseumenz 90 110
+
+MapCode 335 
+pseumenz 60 130
+
+MapCode 371 
+pseumenz 160 30 90 100 130 60 50 120
+poputrem 30 80
+
+MapCode 374 
+pseumenz 20 40 110 150 70 300 80 180
+poputrem 50 40
+
+MapCode 372 
+pseumenz 140 170
+
+MapCode 373 
+pseumenz 350
+
+MapCode 403 
+pseumenz 90 30 80 70
+
+MapCode 404 
+pseumenz 130 10 150
+poputrem 70
+
+MapCode 402 
+pseumenz 120
+
+MapCode 401 
+pseumenz 40 60 200
+
+MapCode 407 
+pseumenz 250 140
+
+MapCode 412 
+pseumenz 40 50 350 190
+
+MapCode 414 
+pseumenz 30 180 200 160 150 170
+
+MapCode 415 
+pseumenz 90 80
+poputrem 70
+
+MapCode 411 
+pseumenz 60 120 140 230
+poputrem 90
+
+MapCode 413 
+pseumenz 70 100
+poputrem 50 60
+
+MapCode 443 
+pseumenz 60
+
+MapCode 445 
+pseumenz 70 20
+
+MapCode 441 
+pseumenz 140 40 80 220 240
+
+MapCode 442 
+pseumenz 50 30 210 160
+
+MapCode 444 
+pseumenz 130 120
+poputrem 50
+
+MapCode 446 
+pseumenz 170
+
+MapCode 461 
+pseumenz 30 80 60 120 70
+poputrem 70 80
+
+MapCode 465 
+pseumenz 50 170
+poputrem 60 50
+
+MapCode 462 
+pseumenz 90 300 220 110
+
+MapCode 464 
+pseumenz 40 260 230 180
+
+MapCode 463 
+pseumenz 350 100 140
+
+MapCode 466 
+pseumenz 150 130 160
+
+MapCode 472 
+pseumenz 200 70 400
+
+MapCode 471 
+pseumenz 40 310 110 100 80 360 250
+
+MapCode 473 
+pseumenz 90 160 120 150 130 210
+
+MapCode 474 
+pseumenz 10 50 30 180 60 330 170
+
+MapCode 475 
+pseumenz 420 140
+
+MapCode 477 
+pseumenz 230
+
+MapCode 481 
+pseumenz 50 20 70 130 120 180 160 150 110 140 170 190
+
+MapCode 482 
+pseumenz 60 80 210
+
+MapCode 484 
+pseumenz 90 40 100
+
+MapCode 553 
+pseumenz 180 160 60 70 80 200
+
+MapCode 552 
+pseumenz 140 170 310 210 100
+poputrem 50
+
+MapCode 551 
+pseumenz 30 20 120 150 90 190 330 260 240 280 130
+
+MapCode 554 
+pseumenz 290 40
+
+MapCode 561 
+pseumenz 70 80 300 110
+
+MapCode 565 
+pseumenz 30 40
+poputrem 50
+
+MapCode 562 
+pseumenz 50 60 240 100 90
+poputrem 70
+
+MapCode 564 
+pseumenz 150 200 140
+poputrem 60
+
+MapCode 563 
+pseumenz 170 160 190
+
+MapCode 571 
+pseumenz 170 160 60 40 70 350
+poputrem 70
+
+MapCode 572 
+pseumenz 150 80
+
+MapCode 573 
+pseumenz 130 190 110 50 30
+poputrem 30
+
+MapCode 574 
+pseumenz 120 100
+poputrem 40
+
+MapCode 575 
+pseumenz 210 240
+
+MapCode 576 
+pseumenz 250 230 260 140
+
+MapCode 603 
+pseumenz 80 390 130
+
+MapCode 605 
+pseumenz 100
+
+MapCode 601 
+pseumenz 140 60 50 30 70 120 220 260
+
+MapCode 602 
+pseumenz 110 320 90 350
+
+MapCode 604 
+pseumenz 40 20 190 200 230 170 210
+
+MapCode 606 
+pseumenz 480 180
+
+MapCode 641 
+pseumenz 50 90 150 130
+
+MapCode 643 
+pseumenz 60 70
+
+MapCode 645 
+pseumenz 100 120
+
+MapCode 642 
+pseumenz 200
+
+MapCode 674 
+pseumenz 70 30 40 160
+
+MapCode 675 
+pseumenz 60 100 120
+
+MapCode 673 
+pseumenz 80 20
+
+MapCode 671 
+pseumenz 50 290 190 280
+
+MapCode 672 
+pseumenz 130 140 150 110 250 210 170
+
+MapCode 676 
+pseumenz 240 230
+
+MapCode 677 
+pseumenz 260
+
+MapCode 684 
+pseumenz 40
+
+MapCode 681 
+pseumenz 50 60 30 90 70 110 100 160 290 120
+
+MapCode 683 
+pseumenz 80 250 310
+
+MapCode 685 
+pseumenz 180 130 410 280 200 240
+
+MapCode 687 
+pseumenz 150
+
+MapCode 686 
+pseumenz 370
+
+MapCode 701 
+pseumenz 40 30 100 90 70 110 120
+
+MapCode 702 
+pseumenz 20
+poputrem 40
+
+MapCode 703 
+pseumenz 60
+
+MapCode 707 
+poputrem 100
+
+MapCode 713 
+pseumenz 20 80 40
+
+MapCode 714 
+pseumenz 70 30
+poputrem 40 60
+
+MapCode 712 
+pseumenz 10 230
+
+MapCode 711 
+pseumenz 60 110 90 100 120 130 240
+
+MapCode 716 
+pseumenz 160
+
+MapCode 721 
+pseumenz 70 180 100
+
+MapCode 724 
+pseumenz 20 60 170 200
+
+MapCode 723 
+pseumenz 50 110 150 160
+
+MapCode 722 
+pseumenz 40 90 190
+
+MapCode 725 
+pseumenz 30 270 230 210
+
+MapCode 727 
+pseumenz 80
+
+MapCode 726 
+pseumenz 130 140
+
+MapCode 753 
+pseumenz 80 50 20
+poputrem 40 20
+
+MapCode 752 
+pseumenz 300 220 100
+
+MapCode 751 
+pseumenz 30 40 70 90 140 150 120 60
+
+MapCode 755 
+pseumenz 190 330
+poputrem 70 60
+
+MapCode 754 
+pseumenz 110 130
+
+MapCode 756 
+pseumenz 200
+
+MapCode 757 
+pseumenz 160 240
+poputrem 50
+
+MapCode 762 
+pseumenz 90 20 40 280 140 50 150
+
+MapCode 764 
+pseumenz 80 60 160
+
+MapCode 761 
+pseumenz 30 100
+
+MapCode 763 
+pseumenz 110 180 200
+
+MapCode 765 
+pseumenz 70
+
+MapCode 772 
+pseumenz 30 140 100 160
+poputrem 50
+
+MapCode 773 
+pseumenz 40 130 120
+
+MapCode 774 
+pseumenz 90 70 80 60 50 190
+
+MapCode 775 
+pseumenz 20
+poputrem 60
+
+MapCode 776 
+pseumenz 170 150
+
+MapCode 771 
+pseumenz 180
+poputrem 80 70
+
+MapCode 777 
+pseumenz 210
+poputrem 30 40 120
+
+MapCode 783 
+pseumenz 20 220
+
+MapCode 782 
+pseumenz 180 50 40 120 160
+
+MapCode 784 
+pseumenz 30
+
+MapCode 781 
+pseumenz 60 80 150 140
+
+MapCode 785 
+pseumenz 70
+
+MapCode 786 
+pseumenz 90
+
+MapCode 824 
+pseumenz 80 210
+
+MapCode 821 
+pseumenz 200 70 50 120
+
+MapCode 822 
+pseumenz 60 90 10 20 130
+
+MapCode 823 
+pseumenz 40
+
+MapCode 825 
+pseumenz 100
+
+MapCode 833 
+pseumenz 40 50 90 60
+poputrem 60
+
+MapCode 831 
+pseumenz 30 130
+
+MapCode 832 
+pseumenz 20 70
+poputrem 30
+
+MapCode 841 
+pseumenz 160 120 190 180 150 200 100
+
+MapCode 842 
+pseumenz 30 80 40
+
+MapCode 843 
+pseumenz 110 140 330
+poputrem 80 70
+
+MapCode 844 
+pseumenz 50 60 90 170 130
+
+MapCode 845 
+pseumenz 70
+poputrem 40
+
+MapCode 861 
+pseumenz 100 80 150
+poputrem 50
+
+MapCode 862 
+pseumenz 70 40 90
+poputrem 60
+
+MapCode 863 
+pseumenz 30 60 50 130 170
+
+MapCode 864 
+pseumenz 120 140
+
+MapCode 865 
+poputrem 90
+
+MapCode 867 
+poputrem 70
+
+MapCode 882 
+pseumenz 110 140 150 190 200 210 220
+
+MapCode 881 
+pseumenz 10 120 90
+
+MapCode 883 
+pseumenz 50 170
+
+MapCode 884 
+pseumenz 80 70 40 60 160 180
+
+MapCode 885 
+pseumenz 130 100
+
+MapCode 886 
+poputrem 70
+
+MapCode 52 
+pseumenz 60
+
+MapCode 53 
+pseumenz 110
+poputrem 70 90 50
+
+MapCode 54 
+pseumenz 120 50 150
+
+MapCode 51 
+pseumenz 70 80
+
+MapCode 55 
+pseumenz 90 140
+
+MapCode 151 
+pseumenz 90 50 40 180 220 100 190 150
+poputrem 40
+
+MapCode 152 
+pseumenz 80 60
+
+MapCode 153 
+pseumenz 30 240 260 130
+poputrem 100
+
+MapCode 155 
+pseumenz 270 300 310
+poputrem 70
+
+MapCode 156 
+pseumenz 500
+
+MapCode 157 
+pseumenz 140 110
+poputrem 80 120
+
+MapCode 154 
+pseumenz 120
+poputrem 50 30 60
+
+MapCode 161 
+pseumenz 90 110 220 240 210 190 250 450 380 180
+poputrem 80 70
+
+MapCode 164 
+pseumenz 100 70
+
+MapCode 162 
+pseumenz 40 60 50 170
+
+MapCode 163 
+pseumenz 270 470 390 370 320 410 230
+
+MapCode 165 
+pseumenz 280 160
+
+MapCode 166 
+pseumenz 80 200
+
+MapCode 171 
+pseumenz 80 60 70 50 140 120 180
+
+MapCode 172 
+pseumenz 100 130 20
+
+MapCode 173 
+pseumenz 40 240 90 110
+
+MapCode 174 
+pseumenz 150
+
+MapCode 176 
+pseumenz 230
+
+MapCode 263 
+pseumenz 90 80 150 160 230 190 180 450 50 140
+
+MapCode 265 
+pseumenz 10 280 430 420
+poputrem 100
+
+MapCode 261 
+pseumenz 60 30 200 170
+poputrem 60 70
+
+MapCode 264 
+pseumenz 40
+poputrem 40 50
+
+MapCode 262 
+pseumenz 70
+
+MapCode 267 
+pseumenz 100
+
+MapCode 266 
+poputrem 80
+
+MapCode 343 
+pseumenz 70 160 80 140
+
+MapCode 344 
+pseumenz 110 150 130 170 180 120 380
+
+MapCode 341 
+pseumenz 40 20 30 90 200
+
+MapCode 342 
+pseumenz 50 260 60
+
+MapCode 345 
+pseumenz 100
+poputrem 40
+
+MapCode 363 
+pseumenz 50 60 90 120 100 40 130
+poputrem 60
+
+MapCode 362 
+pseumenz 140 20
+poputrem 30
+
+MapCode 361 
+pseumenz 30 80 110
+
+MapCode 364 
+pseumenz 70 160
+poputrem 40
+
+MapCode 366 
+poputrem 70 50
+
+MapCode 421 
+pseumenz 30 80
+poputrem 50 60
+
+MapCode 424 
+pseumenz 50 190 40 490 90
+
+MapCode 422 
+pseumenz 110 150 70
+poputrem 90
+
+MapCode 423 
+pseumenz 60
+
+MapCode 425 
+pseumenz 170
+
+MapCode 427 
+poputrem 40
+
+MapCode 432 
+pseumenz 210 150 80
+
+MapCode 433 
+pseumenz 70 20 100
+
+MapCode 431 
+pseumenz 40 50 60 120
+
+MapCode 434 
+pseumenz 170 90 110
+
+MapCode 511 
+pseumenz 90 70 80 200 20 10 40 60 110
+
+MapCode 515 
+pseumenz 120
+
+MapCode 514 
+pseumenz 50
+
+MapCode 513 
+pseumenz 280
+
+MapCode 512 
+pseumenz 100
+
+MapCode 525 
+pseumenz 30
+poputrem 80
+
+MapCode 523 
+pseumenz 150 130 120 40 260 200
+
+MapCode 521 
+pseumenz 70 210 110 100 90 270
+poputrem 60 40
+
+MapCode 522 
+pseumenz 220 20 160
+
+MapCode 527 
+pseumenz 60
+
+MapCode 524 
+pseumenz 50
+poputrem 100 50 70
+
+MapCode 541 
+pseumenz 70 30 40 50 90
+
+MapCode 542 
+pseumenz 80 150 160 350 200 280
+poputrem 80
+
+MapCode 544 
+pseumenz 140 60
+
+MapCode 543 
+pseumenz 110
+poputrem 30 120 60
+
+MapCode 546 
+pseumenz 130 100 270
+
+MapCode 545 
+pseumenz 170 240
+
+MapCode 547 
+pseumenz 230 220 190
+poputrem 90 50
+
+MapCode 581 
+pseumenz 80 90 190 70 180
+
+MapCode 582 
+pseumenz 60
+
+MapCode 583 
+pseumenz 220 120
+
+MapCode 584 
+pseumenz 140
+
+MapCode 585 
+poputrem 70 60 80
+
+MapCode 591 
+pseumenz 160 120 100 90 130 10 70 80
+
+MapCode 592 
+pseumenz 150 110 140 50
+poputrem 50
+
+MapCode 593 
+pseumenz 190 40
+
+MapCode 594 
+pseumenz 60 170 180
+
+MapCode 624 
+pseumenz 70 130
+
+MapCode 621 
+pseumenz 50 40 220 20
+
+MapCode 622 
+pseumenz 170 200 100 110 120 30 80
+
+MapCode 623 
+pseumenz 90 190 60
+
+MapCode 631 
+pseumenz 20 90
+poputrem 60
+
+MapCode 635 
+pseumenz 60 50 70 170
+
+MapCode 633 
+pseumenz 100 40
+
+MapCode 634 
+pseumenz 80 140
+
+MapCode 632 
+poputrem 90
+
+MapCode 652 
+pseumenz 100 110 70 20 190 40
+poputrem 50
+
+MapCode 651 
+pseumenz 90 80 120 180 130 530
+
+MapCode 653 
+pseumenz 60 160
+poputrem 70 80 100
+
+MapCode 654 
+pseumenz 50
+
+MapCode 656 
+pseumenz 170 200 210
+poputrem 110
+
+MapCode 655 
+pseumenz 150
+
+MapCode 661 
+pseumenz 50 70 40 100 90
+
+MapCode 664 
+pseumenz 60 130
+
+MapCode 665 
+pseumenz 80
+
+MapCode 663 
+pseumenz 110
+
+MapCode 667 
+pseumenz 180
+
+MapCode 662 
+pseumenz 160
+
+MapCode 693 
+pseumenz 140 200 130
+poputrem 60
+
+MapCode 691 
+pseumenz 50 40 90 70 120 110
+
+MapCode 694 
+pseumenz 30
+
+MapCode 692 
+pseumenz 60
+
+MapCode 695 
+pseumenz 100 80
+
+MapCode 744 
+pseumenz 20 260 210
+
+MapCode 741 
+pseumenz 70 130 350 370 280 150 160
+
+MapCode 742 
+pseumenz 100 60 200 140
+
+MapCode 743 
+pseumenz 120 110 450 380 50 90
+
+MapCode 745 
+pseumenz 290 180 170 190
+
+MapCode 746 
+
+MapCode 811 
+pseumenz 30 70 60 160 100 90
+
+MapCode 812 
+pseumenz 40 50 20
+
+MapCode 814 
+pseumenz 130 140
+
+MapCode 815 
+pseumenz 80
+
+MapCode 813 
+pseumenz 110
+
+MapCode 891 
+pseumenz 20 40 60
+
+MapCode 893 
+pseumenz 30 120 100 130
+
+MapCode 895 
+pseumenz 50 280 230 290 190
+
+MapCode 894 
+pseumenz 70 210 110
+
+MapCode 892 
+pseumenz 350 80
+poputrem 30
+
+MapCode 897 
+pseumenz 90
+
+MapCode 943 
+pseumenz 60 190 230 180
+poputrem 70 40
+
+MapCode 944 
+pseumenz 90 70 50 40 110 100 140
+
+MapCode 942 
+pseumenz 30 120
+poputrem 50
+
+MapCode 941 
+pseumenz 80
+
+MapCode 945 
+poputrem 60
+
+MapCode 954 
+pseumenz 40 60 310 370 480 230 140
+
+MapCode 952 
+pseumenz 150 90 110 100 50
+
+MapCode 953 
+pseumenz 450 280 20 70
+
+MapCode 951 
+pseumenz 160
+
+MapCode 972 
+pseumenz 30 110 240 100
+
+MapCode 971 
+pseumenz 40 170
+
+MapCode 973 
+pseumenz 120 180
+
+MapCode 975 
+pseumenz 160
+
+MapCode 985 
+pseumenz 30 190
+
+MapCode 981 
+pseumenz 20 60 150
+
+MapCode 982 
+pseumenz 40 160 200 100 170
+
+MapCode 984 
+pseumenz 50 240
+poputrem 30 60 40
+
+MapCode 983 
+pseumenz 80 70 110
+
+MapCode 994 
+pseumenz 40 50
+
+MapCode 995 
+pseumenz 30 140
+
+MapCode 991 
+pseumenz 60 70 90
+
+MapCode 993 
+pseumenz 20 110 150
+
+MapCode 992 
+pseumenz 100
+
+MapCode 1033 
+pseumenz 100 110 60 80
+
+MapCode 1035 
+pseumenz 120 50
+
+MapCode 1032 
+pseumenz 30 130 150 170 190 230
+
+MapCode 1034 
+pseumenz 70 200 220
+
+MapCode 1031 
+pseumenz 240 160
+
+MapCode 1042 
+pseumenz 50 70 110
+
+MapCode 1041 
+pseumenz 60 40 90 100
+
+MapCode 1043 
+pseumenz 30 130 80
+poputrem 30 40
+
+MapCode 1044 
+pseumenz 120
+
+MapCode 1092 
+pseumenz 40 100 90
+
+MapCode 1095 
+pseumenz 50
+poputrem 90
+
+MapCode 1093 
+pseumenz 60 30 140 130
+
+MapCode 1094 
+pseumenz 170 70
+poputrem 60
+
+MapCode 1091 
+pseumenz 150 20 210 110 120
+poputrem 70 50
+
+MapCode 1111 
+pseumenz 90 310 210
+
+MapCode 1112 
+pseumenz 80 30 20 40
+poputrem 20 30 60
+
+MapCode 1114 
+pseumenz 60 150 110
+
+MapCode 1113 
+pseumenz 70 300 50 120
+
+MapCode 1115 
+pseumenz 230 220
+
+MapCode 1123 
+pseumenz 50 140 130
+
+MapCode 1121 
+pseumenz 120 150
+
+MapCode 1122 
+pseumenz 100 60 40 20
+
+MapCode 1124 
+pseumenz 70 90
+
+MapCode 1126 
+pseumenz 220
+
+MapCode 1127 
+pseumenz 370 80
+
+MapCode 1211 
+pseumenz 10 60
+
+MapCode 1212 
+pseumenz 40 110 100
+
+MapCode 1214 
+pseumenz 50 70 80
+poputrem 50
+
+MapCode 1213 
+pseumenz 20 90
+poputrem 40
+
+MapCode 1215 
+pseumenz 120
+
+MapCode 1217 
+pseumenz 140
+
+MapCode 1231 
+pseumenz 70 60 100 310 90
+poputrem 80
+
+MapCode 1233 
+pseumenz 50
+poputrem 90 110
+
+MapCode 1235 
+pseumenz 40 30 450 250
+
+MapCode 1234 
+pseumenz 20 240
+poputrem 60
+
+MapCode 1232 
+pseumenz 110 80
+poputrem 50 70
+
+MapCode 1236 
+poputrem 100
+
+MapCode 1254 
+pseumenz 100 180
+
+MapCode 1251 
+pseumenz 70 50 160 150
+
+MapCode 1252 
+pseumenz 320 170
+
+MapCode 1253 
+pseumenz 40
+
+MapCode 1271 
+pseumenz 40 240 140 60 50 270 280 290 100
+
+MapCode 1272 
+pseumenz 20 150 70 120
+
+MapCode 1274 
+pseumenz 190 220 180 310 110 130 80
+
+MapCode 1273 
+pseumenz 90
+
+MapCode 1281 
+pseumenz 60 50 40 380 370 320 180 230 290 120
+
+MapCode 1282 
+pseumenz 110 150 130
+
+MapCode 1283 
+pseumenz 90 30 140 160
+
+MapCode 1284 
+pseumenz 70 80 350 100
+
+MapCode 1285 
+pseumenz 390
+
+MapCode 1291 
+pseumenz 40 20
+
+MapCode 1293 
+pseumenz 70 80
+
+MapCode 1295 
+pseumenz 50
+
+MapCode 1294 
+pseumenz 30 60 110
+
+MapCode 1292 
+pseumenz 100
+
+MapCode 1351 
+pseumenz 110 70 90 60 190
+
+MapCode 1352 
+pseumenz 20 50
+
+MapCode 1353 
+pseumenz 170 100 240
+
+MapCode 1355 
+pseumenz 150
+
+MapCode 1361 
+pseumenz 110 40 70 50 180 200
+
+MapCode 1362 
+pseumenz 120 90 60 310
+poputrem 80
+
+MapCode 1363 
+pseumenz 80 280 130 210
+
+MapCode 1364 
+pseumenz 160 100 230
+
+MapCode 1367 
+pseumenz 220 140
+
+MapCode 1395 
+pseumenz 90 30 80 60 180 210
+
+MapCode 1392 
+pseumenz 20 100 240
+
+MapCode 1394 
+pseumenz 40 170
+
+MapCode 1391 
+pseumenz 220 160
+
+MapCode 1393 
+pseumenz 200 260
+
+MapCode 1397 
+pseumenz 190 110
+
+MapCode 1411 
+pseumenz 210 350 20 70 160 250 260
+
+MapCode 1414 
+pseumenz 330 170 220 130
+
+MapCode 1415 
+pseumenz 80 340 270
+
+MapCode 1412 
+pseumenz 140
+
+MapCode 1413 
+pseumenz 410 120
+
+MapCode 1416 
+pseumenz 230 520 200 110 100 60
+
+MapCode 1417 
+pseumenz 40
+
+MapCode 1501 
+pseumenz 80 60 40
+poputrem 40
+
+MapCode 1504 
+pseumenz 50 70
+
+MapCode 1502 
+pseumenz 90 130
+
+MapCode 1503 
+pseumenz 110
+
+MapCode 1511 
+pseumenz 20 30 100 90 150
+
+MapCode 1514 
+pseumenz 40 50 80 110
+
+MapCode 1515 
+pseumenz 70 120
+
+MapCode 1513 
+pseumenz 170 130
+
+MapCode 1521 
+pseumenz 60 70 80 140 90
+
+MapCode 1523 
+pseumenz 110
+
+MapCode 1524 
+pseumenz 50
+
+MapCode 1522 
+pseumenz 120
+
+MapCode 1525 
+pseumenz 100
+
+MapCode 1542 
+pseumenz 20 10 50
+
+MapCode 1541 
+pseumenz 40 180 230 260 160
+
+MapCode 1546 
+pseumenz 220
+
+MapCode 1547 
+pseumenz 210
+
+MapCode 1543 
+pseumenz 70
+
+MapCode 1545 
+pseumenz 80 130
+
+MapCode 1554 
+pseumenz 40
+
+MapCode 1555 
+pseumenz 30
+
+MapCode 1552 
+pseumenz 20
+
+MapCode 1571 
+pseumenz 40 60 160 120
+
+MapCode 1574 
+pseumenz 30 90 70
+
+MapCode 1572 
+pseumenz 80 100 50
+
+MapCode 1573 
+pseumenz 110
+
+MapCode 1601 
+pseumenz 110 90 50 40 60 30 220 200 80 140
+
+MapCode 1602 
+pseumenz 70 120 100
+
+MapCode 1603 
+pseumenz 150 130
+
+MapCode 1605 
+pseumenz 240 190 270 160
+
+MapCode 1606 
+pseumenz 310
+
+MapCode 1751 
+pseumenz 50 40 60 160 150 420 450 170 110 180 90 100
+
+MapCode 1752 
+pseumenz 20 80 190
+
+MapCode 1754 
+pseumenz 70 10
+
+MapCode 1753 
+pseumenz 550 120
+
+MapCode 1755 
+pseumenz 380 140
+
+MapCode 1756 
+pseumenz 220 130
+
+MapCode 1757 
+pseumenz 210
+
+MapCode 1771 
+pseumenz 70 40 80 90 110 50
+
+MapCode 1772 
+pseumenz 100
+
+MapCode 1774 
+pseumenz 120
+
+MapCode 1781 
+pseumenz 50 60
+
+MapCode 1782 
+pseumenz 30 20 10 90
+
+MapCode 1783 
+pseumenz 40 70
+
+MapCode 1784 
+pseumenz 80
+
+MapCode 1791 
+pseumenz 20 110 180
+
+MapCode 1792 
+pseumenz 10 30 50
+
+MapCode 1793 
+pseumenz 40 140 70
+
+MapCode 1795 
+pseumenz 60
+
+MapCode 1794 
+pseumenz 80
+
+MapCode 1801 
+pseumenz 70 80 30 60
+poputrem 50
+
+MapCode 1803 
+pseumenz 320 110 140
+
+MapCode 1804 
+pseumenz 120 180 90 100 40 130
+
+MapCode 1802 
+pseumenz 50
+poputrem 70 80
+
+MapCode 1861 
+pseumenz 50 200
+
+MapCode 1862 
+pseumenz 60 170 140 180
+
+MapCode 1863 
+pseumenz 40 130 290 120
+
+MapCode 1865 
+pseumenz 110
+
+MapCode 1866 
+pseumenz 80
+
+MapCode 1867 
+pseumenz 150
+
+MapCode 1864 
+pseumenz 190 70
+
+MapCode 1872 
+pseumenz 60 40 90 80 70
+
+MapCode 1874 
+pseumenz 50
+poputrem 60
+
+MapCode 1871 
+pseumenz 20
+poputrem 80 110
+
+MapCode 1873 
+pseumenz 30 110
+poputrem 40 30
+
+MapCode 1875 
+poputrem 70
+
+MapCode 1881 
+pseumenz 70 40 90 310 280 80 180
+poputrem 60
+
+MapCode 1882 
+pseumenz 50 60 300 170 150
+poputrem 50 80
+
+MapCode 1884 
+pseumenz 100
+
+MapCode 1883 
+pseumenz 220 110 160
+poputrem 40
+
+MapCode 2011 
+pseumenz 90 80 70 110
+
+MapCode 2013 
+pseumenz 60 160
+
+MapCode 2014 
+pseumenz 170 50
+
+MapCode 2031 
+pseumenz 40 60 70 80
+
+MapCode 2032 
+pseumenz 50
+
+MapCode 2051 
+pseumenz 80 70 210
+
+MapCode 2052 
+pseumenz 90 190 170 370 40 100
+
+MapCode 2053 
+pseumenz 60 20
+
+MapCode 2054 
+pseumenz 30 110
+
+MapCode 2061 
+pseumenz 50 180
+
+MapCode 2064 
+pseumenz 150 110 70
+
+MapCode 2065 
+pseumenz 140
+
+MapCode 2062 
+pseumenz 100 80 60 90
+
+MapCode 2063 
+pseumenz 240 200 130
+
+MapCode 2091 
+pseumenz 70 50 250
+
+MapCode 2093 
+pseumenz 60 90 110
+
+MapCode 2092 
+pseumenz 220 80 120
+
+MapCode 2101 
+pseumenz 50 40
+
+MapCode 2102 
+pseumenz 60 20 30 70
+
+MapCode 2103 
+pseumenz 90 80 100
+
+MapCode 71 
+pseumenz 130 150 140 90 60 40 50 310 230 220 270 30
+
+MapCode 73 
+pseumenz 120 110 400 170
+
+MapCode 72 
+pseumenz 70 100 190
+
+MapCode 74 
+pseumenz 250 260
+
+MapCode 75 
+pseumenz 330 280 290 350 80
+
+MapCode 76 
+pseumenz 450
+
+MapCode 95 
+pseumenz 50
+
+MapCode 91 
+pseumenz 60 30 40
+
+MapCode 93 
+pseumenz 20 70 80
+
+MapCode 92 
+pseumenz 190 150 140 110
+
+MapCode 104 
+pseumenz 90 100 280 20 560 420
+
+MapCode 102 
+pseumenz 170 60 150 130 240 110
+
+MapCode 101 
+pseumenz 10 80 40 50 250
+
+MapCode 105 
+pseumenz 460 190 160
+poputrem 90
+
+MapCode 107 
+pseumenz 70
+poputrem 50 100
+
+MapCode 103 
+pseumenz 230 120
+
+MapCode 492 
+pseumenz 90 70 30 130 120 200
+
+MapCode 495 
+pseumenz 20
+
+MapCode 491 
+pseumenz 80 60 230 400 190 170
+
+MapCode 494 
+pseumenz 100 110 50 140 160 150
+
+MapCode 493 
+pseumenz 40
+
+MapCode 501 
+pseumenz 40 80 270
+
+MapCode 502 
+pseumenz 30 110 130 50 210 200 220
+
+MapCode 503 
+pseumenz 100 140 170 260 90 160
+
+MapCode 504 
+pseumenz 60 70
+
+MapCode 505 
+pseumenz 190
+
+MapCode 611 
+pseumenz 150 40
+
+MapCode 612 
+pseumenz 170 180
+
+MapCode 613 
+pseumenz 60 50 70
+
+MapCode 615 
+pseumenz 100
+
+MapCode 731 
+pseumenz 240 80 40 50
+poputrem 20
+
+MapCode 732 
+pseumenz 170 160 110 90
+
+MapCode 733 
+pseumenz 280 210 100 200
+poputrem 80 60
+
+MapCode 735 
+pseumenz 250
+
+MapCode 734 
+pseumenz 20 30 10 60 70
+
+MapCode 736 
+pseumenz 130 140 190
+poputrem 40
+
+MapCode 737 
+poputrem 70
+
+MapCode 871 
+pseumenz 50 90
+
+MapCode 872 
+pseumenz 170 150 70
+
+MapCode 873 
+pseumenz 80
+
+MapCode 875 
+pseumenz 60
+
+MapCode 911 
+pseumenz 10 50 30 20 510 520 70 90 110
+
+MapCode 913 
+pseumenz 40 140 120
+
+MapCode 915 
+pseumenz 60 380 300 320
+
+MapCode 912 
+pseumenz 240
+poputrem 50 70 30 40
+
+MapCode 916 
+pseumenz 470 280 80
+
+MapCode 917 
+pseumenz 400
+
+MapCode 914 
+poputrem 60
+
+MapCode 921 
+pseumenz 30 40 90 60 70 80
+
+MapCode 922 
+pseumenz 10
+
+MapCode 924 
+pseumenz 50 100
+
+MapCode 932 
+pseumenz 50 170 130
+poputrem 70
+
+MapCode 935 
+pseumenz 140 90 120
+
+MapCode 931 
+pseumenz 60 80 460 150
+
+MapCode 933 
+pseumenz 40 110
+
+MapCode 936 
+pseumenz 340 350
+
+MapCode 934 
+pseumenz 70
+
+MapCode 937 
+pseumenz 210
+
+MapCode 1002 
+pseumenz 80 70
+
+MapCode 1004 
+pseumenz 60 180 260
+poputrem 50 60
+
+MapCode 1001 
+pseumenz 50 30 40 20 200 120 100 130
+poputrem 80
+
+MapCode 1005 
+pseumenz 140 110
+
+MapCode 1003 
+pseumenz 90
+poputrem 90
+
+MapCode 1021 
+pseumenz 90 70 60
+
+MapCode 1022 
+pseumenz 100
+
+MapCode 1023 
+pseumenz 110 80 30
+
+MapCode 1024 
+pseumenz 40
+
+MapCode 1051 
+pseumenz 80 70 60 40 50
+poputrem 80
+
+MapCode 1053 
+pseumenz 230 120 140 110
+
+MapCode 1055 
+pseumenz 130
+poputrem 90
+
+MapCode 1056 
+pseumenz 150
+poputrem 50
+
+MapCode 1052 
+pseumenz 30 100 200
+poputrem 70
+
+MapCode 1054 
+pseumenz 210
+poputrem 60
+
+MapCode 1071 
+pseumenz 20 90 200
+
+MapCode 1074 
+pseumenz 10 50 210 80 110
+poputrem 60
+
+MapCode 1072 
+pseumenz 60 30 120 240
+poputrem 50 70
+
+MapCode 1073 
+pseumenz 40 70
+
+MapCode 1075 
+pseumenz 270
+
+MapCode 1077 
+pseumenz 230 250
+
+MapCode 1081 
+pseumenz 30
+
+MapCode 1083 
+pseumenz 60
+
+MapCode 1082 
+pseumenz 50 40 80 70 110 90
+
+MapCode 1084 
+pseumenz 130 120 150
+poputrem 60 70
+
+MapCode 1085 
+pseumenz 100 200 160
+
+MapCode 1162 
+pseumenz 120 100 80 150 140
+
+MapCode 1161 
+pseumenz 40 20 180 190 60 130 210
+
+MapCode 1165 
+pseumenz 230 170
+
+MapCode 1164 
+pseumenz 90 50 160 200 110
+
+MapCode 1163 
+pseumenz 220
+
+MapCode 1171 
+pseumenz 100 130 120 250 170
+
+MapCode 1173 
+pseumenz 60 50 410 180
+
+MapCode 1176 
+pseumenz 190 150 80
+
+MapCode 1177 
+pseumenz 550
+
+MapCode 1172 
+pseumenz 110
+
+MapCode 1184 
+pseumenz 60 40
+poputrem 60
+
+MapCode 1181 
+pseumenz 120 50 200 130 140 190
+
+MapCode 1182 
+pseumenz 110 70 100 80 180
+poputrem 70
+
+MapCode 1183 
+pseumenz 90
+
+MapCode 1185 
+pseumenz 210 150
+poputrem 100
+
+MapCode 1192 
+pseumenz 60 50 70 80 130 140 120
+
+MapCode 1191 
+pseumenz 230 310
+
+MapCode 1193 
+pseumenz 220 350 100 110
+
+MapCode 1194 
+pseumenz 30 360 330 40
+
+MapCode 1195 
+pseumenz 370
+
+MapCode 1201 
+pseumenz 30 110 100 50 140
+
+MapCode 1202 
+pseumenz 40 190 90
+
+MapCode 1203 
+pseumenz 150 60
+
+MapCode 1204 
+pseumenz 130
+
+MapCode 1205 
+pseumenz 70
+
+MapCode 1221 
+pseumenz 90 30 40
+
+MapCode 1223 
+pseumenz 100 50 110 230 160 120
+
+MapCode 1224 
+pseumenz 80 10 140
+poputrem 70
+
+MapCode 1225 
+pseumenz 70
+
+MapCode 1222 
+pseumenz 60 150 220
+
+MapCode 1226 
+pseumenz 130
+
+MapCode 81 
+pseumenz 60 30 20 80 90 170 140
+
+MapCode 82 
+pseumenz 50 130 110
+
+MapCode 85 
+pseumenz 160 100
+
+MapCode 84 
+pseumenz 40 150 120 70
+
+MapCode 86 
+pseumenz 530
+
+MapCode 83 
+poputrem 40 30
+
+MapCode 271 
+pseumenz 170 60 50 70 150 90
+
+MapCode 273 
+pseumenz 20 350 120 130 40
+
+MapCode 272 
+pseumenz 80
+
+MapCode 274 
+pseumenz 280
+poputrem 50
+
+MapCode 275 
+pseumenz 110 140 100
+
+MapCode 276 
+pseumenz 220
+
+MapCode 351 
+pseumenz 10 90 260 110
+poputrem 30 40 20
+
+MapCode 352 
+pseumenz 40 50 60 160 140
+
+MapCode 354 
+pseumenz 70 130 80 100 290 200 240
+
+MapCode 353 
+pseumenz 120 30
+
+MapCode 357 
+pseumenz 280
+
+MapCode 356 
+pseumenz 190
+
+MapCode 355 
+poputrem 50
+
+MapCode 384 
+pseumenz 50 70 190 240
+
+MapCode 381 
+pseumenz 90 60 40
+
+MapCode 383 
+pseumenz 100 110 160 140 180
+
+MapCode 382 
+pseumenz 200
+
+MapCode 385 
+pseumenz 20 170
+
+MapCode 386 
+pseumenz 120
+
+MapCode 394 
+pseumenz 20 60 70 320 350 170
+
+MapCode 391 
+pseumenz 50 30 180 270 160 290 250
+
+MapCode 392 
+pseumenz 90 100 380 390 150
+
+MapCode 397 
+pseumenz 420 400 80 140 120
+
+MapCode 395 
+pseumenz 40 130
+
+MapCode 451 
+pseumenz 20 150 160
+
+MapCode 452 
+pseumenz 40 30
+
+MapCode 453 
+pseumenz 50 70 80 100
+
+MapCode 454 
+pseumenz 60 110
+
+MapCode 456 
+pseumenz 90
+
+MapCode 455 
+pseumenz 140
+
+MapCode 901 
+pseumenz 40 100 90 130 70 220
+
+MapCode 902 
+pseumenz 50 60 80 120
+
+MapCode 904 
+pseumenz 30 160 140 150 210 110
+
+MapCode 905 
+pseumenz 200
+poputrem 80
+
+MapCode 1011 
+pseumenz 40 60 320
+
+MapCode 1012 
+pseumenz 30 50 130 80 290 110 160 150 140
+
+MapCode 1014 
+pseumenz 90 70
+
+MapCode 1134 
+pseumenz 30
+
+MapCode 1131 
+pseumenz 40 70 80
+
+MapCode 1132 
+pseumenz 50 90
+
+MapCode 1243 
+pseumenz 20 40 90 180 170
+
+MapCode 1244 
+pseumenz 10 220
+
+MapCode 1242 
+pseumenz 50 110 200 190
+
+MapCode 1241 
+pseumenz 100 140 150 60
+poputrem 20 50 70
+
+MapCode 1246 
+poputrem 60
+
+MapCode 1311 
+pseumenz 20 60 80 130 210
+
+MapCode 1312 
+pseumenz 40 110 190 220 260 200
+
+MapCode 1314 
+pseumenz 50 70
+poputrem 30 50
+
+MapCode 1315 
+pseumenz 30 120
+poputrem 40 60
+
+MapCode 1313 
+pseumenz 90
+
+MapCode 1317 
+pseumenz 140 250 170
+
+MapCode 1331 
+pseumenz 50 160
+poputrem 40 60
+
+MapCode 1332 
+pseumenz 60 210
+
+MapCode 1334 
+pseumenz 100
+
+MapCode 1333 
+pseumenz 140
+
+MapCode 1335 
+pseumenz 40
+
+MapCode 1341 
+pseumenz 50 190 140 220
+
+MapCode 1343 
+pseumenz 70 60
+
+MapCode 1342 
+pseumenz 40 120 130 150
+poputrem 50
+
+MapCode 1346 
+pseumenz 30
+
+MapCode 1344 
+poputrem 80
+
+MapCode 1404 
+pseumenz 80 90
+
+MapCode 1403 
+pseumenz 100
+
+MapCode 1402 
+pseumenz 70
+
+MapCode 1405 
+poputrem 60 70
+
+MapCode 1531 
+pseumenz 40 120 280 200
+poputrem 90
+
+MapCode 1532 
+pseumenz 60 400 330 380 150
+poputrem 100 60 50 40
+
+MapCode 1533 
+pseumenz 50 370 230 310 130 110 80 90
+
+MapCode 1534 
+pseumenz 70 220
+
+MapCode 1535 
+pseumenz 140
+poputrem 70
+
+MapCode 1583 
+pseumenz 10 20 120 40
+
+MapCode 1582 
+pseumenz 170 160
+
+MapCode 1584 
+pseumenz 90
+
+MapCode 1581 
+poputrem 50 100 90 70 80
+
+MapCode 1585 
+poputrem 40 30 60
+
+MapCode 1813 
+pseumenz 30 110 70
+
+MapCode 1814 
+pseumenz 140 20
+
+MapCode 1812 
+pseumenz 60
+
+MapCode 1815 
+pseumenz 50
+
+MapCode 2021 
+pseumenz 20 150 130 100 140 70
+
+MapCode 2023 
+pseumenz 40 60
+
+MapCode 2022 
+pseumenz 160 50 80
+
+MapCode 2112 
+pseumenz 90
+
+MapCode 2281 
+pseumenz 100 210 190
+
+MapCode 2282 
+pseumenz 150 160
+
+MapCode 2284 
+pseumenz 70 200
+
+MapCode 2286 
+pseumenz 250 140 110
+
+MapCode 2287 
+pseumenz 130 240
+
+MapCode 2283 
+pseumenz 180
+
+MapCode 2285 
+pseumenz 60 260
+
+MapCode 2302 
+pseumenz 10 530 200 110
+
+MapCode 2301 
+pseumenz 90 130 560 280 240
+
+MapCode 2303 
+pseumenz 270
+
+MapCode 2304 
+pseumenz 70 160 470 500 220 140
+
+MapCode 2306 
+pseumenz 520
+
+MapCode 2323 
+pseumenz 20 240 110
+
+MapCode 2324 
+pseumenz 160
+
+MapCode 2321 
+pseumenz 80 180 90 100 70
+
+MapCode 2322 
+pseumenz 210 170 40
+
+MapCode 2364 
+pseumenz 10 70 50 100
+
+MapCode 2363 
+pseumenz 20 80 90
+
+MapCode 2362 
+pseumenz 60
+
+MapCode 2372 
+pseumenz 120 130
+
+MapCode 2373 
+pseumenz 30
+
+MapCode 2375 
+pseumenz 90 150
+
+MapCode 2371 
+pseumenz 50
+
+MapCode 2374 
+pseumenz 40 110
+
+MapCode 231 
+pseumenz 20 10 90 130
+
+MapCode 232 
+pseumenz 60 140
+
+MapCode 233 
+pseumenz 100 110 160
+
+MapCode 235 
+pseumenz 30 40 70 150
+
+MapCode 234 
+pseumenz 50
+
+MapCode 534 
+pseumenz 10 130 160 120 110
+
+MapCode 532 
+pseumenz 80 70 140
+
+MapCode 531 
+pseumenz 60 100 50
+
+MapCode 533 
+pseumenz 90 210
+
+MapCode 535 
+pseumenz 150 180
+
+MapCode 536 
+pseumenz 170
+poputrem 70
+
+MapCode 537 
+poputrem 80 60
+
+MapCode 851 
+pseumenz 60
+
+MapCode 852 
+pseumenz 30
+
+MapCode 854 
+pseumenz 70 50 40 120 80
+poputrem 60
+
+MapCode 855 
+pseumenz 100
+
+MapCode 853 
+pseumenz 160 110
+poputrem 80 70
+
+MapCode 857 
+pseumenz 130
+
+MapCode 1063 
+pseumenz 20 120 80
+
+MapCode 1064 
+pseumenz 100 90 110 140 130 250 220
+poputrem 50
+
+MapCode 1065 
+pseumenz 50 230
+poputrem 100
+
+MapCode 1061 
+pseumenz 10 150 160 70
+
+MapCode 1062 
+pseumenz 40 60
+poputrem 70
+
+MapCode 1067 
+pseumenz 240 30
+
+MapCode 1101 
+pseumenz 40 100 30 60 120 200 180
+poputrem 50
+
+MapCode 1103 
+pseumenz 50 20 80 90 270
+poputrem 60
+
+MapCode 1104 
+pseumenz 280
+
+MapCode 1102 
+pseumenz 110 130 70
+poputrem 20
+
+MapCode 1106 
+pseumenz 140
+
+MapCode 1143 
+pseumenz 40 50 20 30 90 80
+
+MapCode 1141 
+pseumenz 60 110
+
+MapCode 1151 
+pseumenz 40 60
+
+MapCode 1154 
+pseumenz 30 50 80
+
+MapCode 1152 
+pseumenz 70
+
+MapCode 1381 
+pseumenz 200 30 40 70 90
+
+MapCode 1382 
+pseumenz 50 150 60
+
+MapCode 1385 
+poputrem 60 70 50
+
+MapCode 1593 
+pseumenz 360 70
+
+MapCode 1594 
+pseumenz 210
+
+MapCode 1595 
+pseumenz 320
+
+MapCode 1596 
+pseumenz 420
+poputrem 50
+
+MapCode 1591 
+pseumenz 140 130 80
+poputrem 60 100
+
+MapCode 1611 
+pseumenz 50 80 90
+
+MapCode 1612 
+pseumenz 70 310 60
+
+MapCode 1613 
+pseumenz 100 40
+
+MapCode 1614 
+pseumenz 300 170
+
+MapCode 1615 
+pseumenz 280 180 160
+
+MapCode 1624 
+pseumenz 20 60 170
+poputrem 80
+
+MapCode 1621 
+pseumenz 90 50 160 180 140
+
+MapCode 1622 
+pseumenz 100 120 130
+poputrem 90
+
+MapCode 1625 
+pseumenz 80 70
+
+MapCode 1623 
+pseumenz 150
+poputrem 100
+
+MapCode 1627 
+poputrem 110
+
+MapCode 1821 
+pseumenz 50 350 130
+poputrem 30 40
+
+MapCode 1823 
+pseumenz 30 290
+poputrem 50
+
+MapCode 1824 
+pseumenz 70 80 180
+poputrem 70
+
+MapCode 1825 
+pseumenz 100 120 170
+
+MapCode 1822 
+pseumenz 60 40 140
+poputrem 80 90 60
+
+MapCode 1826 
+pseumenz 250 110 90 190
+
+MapCode 1827 
+pseumenz 340 300 320 260
+
+MapCode 1843 
+pseumenz 50 60 70 80
+
+MapCode 1845 
+pseumenz 140
+
+MapCode 1844 
+pseumenz 190
+
+MapCode 1841 
+pseumenz 100
+
+MapCode 2121 
+pseumenz 70 110
+
+MapCode 2122 
+pseumenz 130 90
+
+MapCode 2123 
+pseumenz 150 140
+
+MapCode 2124 
+pseumenz 80 100 280
+
+MapCode 2125 
+pseumenz 60
+
+MapCode 2131 
+pseumenz 70 40 120 80
+
+MapCode 2132 
+pseumenz 110
+
+MapCode 2133 
+pseumenz 30
+
+MapCode 2135 
+pseumenz 90 100 170 50
+
+MapCode 2136 
+pseumenz 180
+
+MapCode 2272 
+pseumenz 30 130
+
+MapCode 2271 
+pseumenz 150 90 210
+
+MapCode 2273 
+pseumenz 50
+
+MapCode 2274 
+pseumenz 70 170
+
+MapCode 2276 
+pseumenz 120 60 140 100
+
+MapCode 2275 
+pseumenz 220
+poputrem 100
+
+MapCode 2291 
+pseumenz 70 150 90 200 100
+
+MapCode 2292 
+pseumenz 40 60 80
+
+MapCode 2295 
+pseumenz 50 210
+
+MapCode 2294 
+pseumenz 110 130
+poputrem 30
+
+MapCode 2296 
+pseumenz 120 350 220 460
+
+MapCode 2441 
+pseumenz 90 110
+
+MapCode 2442 
+pseumenz 120 100
+
+MapCode 2444 
+pseumenz 70 140
+
+MapCode 2611 
+pseumenz 140
+
+MapCode 2614 
+pseumenz 40 70
+
+MapCode 2612 
+pseumenz 80
+
+MapCode 2631 
+pseumenz 120 130 110 50 90
+
+MapCode 2632 
+pseumenz 200
+
+MapCode 2633 
+pseumenz 40
+
+MapCode 2643 
+pseumenz 50 90
+
+MapCode 2662 
+pseumenz 80 190
+
+MapCode 2661 
+pseumenz 20 30 40 60 50
+
+MapCode 2921 
+pseumenz 100 90 120 330 70
+
+MapCode 2922 
+pseumenz 50 80 60 40 110
+
+MapCode 2931 
+pseumenz 30
+
+MapCode 2941 
+pseumenz 120 90 80 170
+
+MapCode 2943 
+pseumenz 100 130 150
+
+MapCode 2942 
+pseumenz 60 40 70
+
+MapCode 2944 
+pseumenz 110 50
+
+MapCode 2945 
+pseumenz 220
+
+MapCode 2963 
+pseumenz 40 60
+
+MapCode 2962 
+pseumenz 140
+
+MapCode 3252 
+pseumenz 50 80 70 160
+
+MapCode 3253 
+pseumenz 120 110 130
+
+MapCode 3254 
+pseumenz 100 60
+
+MapCode 3255 
+pseumenz 90 150 140
+
+MapCode 3264 
+pseumenz 190 70
+
+MapCode 3263 
+pseumenz 120
+
+MapCode 3261 
+pseumenz 80
+
+MapCode 3266 
+pseumenz 90 60
+
+MapCode 3267 
+pseumenz 180
+
+MapCode 3262 
+pseumenz 130
+
+MapCode 3272 
+pseumenz 90 300
+
+MapCode 3275 
+pseumenz 230 240 200
+
+MapCode 3284 
+pseumenz 50 30
+
+MapCode 3282 
+pseumenz 40
+
+MapCode 3951 
+pseumenz 270 260
+
+MapCode 3954 
+pseumenz 180 150
+
+MapCode 3956 
+pseumenz 240 140
+
+MapCode 3957 
+pseumenz 230 250 110
+
+MapCode 3952 
+pseumenz 70 160
+
+MapCode 3953 
+pseumenz 130
+
+MapCode 3955 
+pseumenz 120
+
+MapCode 791 
+pseumenz 90 110 140 120 100
+
+MapCode 792 
+pseumenz 70 270 290
+
+MapCode 793 
+pseumenz 80 300 60 160
+
+MapCode 795 
+pseumenz 350
+
+MapCode 801 
+pseumenz 50
+
+MapCode 803 
+pseumenz 60
+
+MapCode 805 
+pseumenz 70
+
+MapCode 961 
+pseumenz 50
+
+MapCode 962 
+pseumenz 60
+
+MapCode 964 
+pseumenz 70
+
+MapCode 1265 
+pseumenz 80 70 90
+
+MapCode 1262 
+pseumenz 30 60
+
+MapCode 1263 
+pseumenz 40 240 180 190 260 50
+
+MapCode 1261 
+pseumenz 160 100 200 130 120 170
+poputrem 30 40
+
+MapCode 1264 
+pseumenz 230 110
+
+MapCode 191 
+pseumenz 70 50 60 310 120 40
+
+MapCode 193 
+pseumenz 80 160 190 200 100
+
+MapCode 194 
+pseumenz 90 110
+poputrem 40 50
+
+MapCode 192 
+pseumenz 130 350
+poputrem 30
+
+MapCode 196 
+pseumenz 230 150
+
+MapCode 197 
+pseumenz 370
+
+MapCode 195 
+pseumenz 220
+
+MapCode 1371 
+pseumenz 30 90 50
+poputrem 50 60
+
+MapCode 1373 
+pseumenz 10 70
+
+MapCode 1372 
+pseumenz 80
+
+MapCode 1374 
+pseumenz 40
+poputrem 90 100
+
+MapCode 1763 
+pseumenz 140
+poputrem 40
+
+MapCode 1761 
+pseumenz 80
+
+MapCode 1762 
+poputrem 60
+
+MapCode 2082 
+pseumenz 70
+
+MapCode 2083 
+pseumenz 40 60
+
+MapCode 2331 
+pseumenz 50 280
+
+MapCode 2334 
+pseumenz 230 90
+
+MapCode 2354 
+pseumenz 60 50
+
+MapCode 2593 
+pseumenz 90 100 70
+
+MapCode 2591 
+pseumenz 40
+
+MapCode 2592 
+pseumenz 60
+
+MapCode 2651 
+pseumenz 100
+
+MapCode 2652 
+pseumenz 40 50
+
+MapCode 2654 
+pseumenz 30 200
+
+MapCode 2673 
+pseumenz 50 120
+
+MapCode 2674 
+pseumenz 30 80 140
+
+MapCode 2675 
+pseumenz 110
+
+MapCode 2671 
+pseumenz 170 90
+
+MapCode 2672 
+pseumenz 260 220 40 100
+
+MapCode 2681 
+pseumenz 50 40 80
+
+MapCode 2683 
+pseumenz 230
+
+MapCode 2684 
+pseumenz 60
+
+MapCode 2682 
+pseumenz 90
+
+MapCode 2693 
+pseumenz 60 100
+
+MapCode 2691 
+pseumenz 270
+
+MapCode 2692 
+pseumenz 200 180 30
+
+MapCode 2694 
+pseumenz 150 190
+
+MapCode 2695 
+pseumenz 310 70
+
+MapCode 2621 
+pseumenz 60 50 80 90 100
+
+MapCode 2627 
+pseumenz 70
+
+MapCode 2981 
+pseumenz 270 290
+
+MapCode 2982 
+pseumenz 280 600 130 540 110
+
+MapCode 2985 
+pseumenz 160 180 70 120 100
+
+MapCode 2986 
+pseumenz 440 170 150 190 220
+
+MapCode 2987 
+pseumenz 310 250 240 80
+
+MapCode 2983 
+pseumenz 210
+
+MapCode 2984 
+pseumenz 60
+
+MapCode 2991 
+pseumenz 80
+
+MapCode 2993 
+pseumenz 50 60
+
+MapCode 2994 
+pseumenz 90 190 140
+
+MapCode 2995 
+pseumenz 150
+
+MapCode 3303 
+pseumenz 90 70 160
+
+MapCode 3304 
+pseumenz 60 50
+
+MapCode 1491 
+pseumenz 100 150 200 50 70 80
+poputrem 70
+
+MapCode 1492 
+pseumenz 140 190 110
+poputrem 60
+
+MapCode 1494 
+pseumenz 230 90 130
+
+MapCode 1493 
+poputrem 80
+
+MapCode 1496 
+poputrem 50
+
+MapCode 1497 
+poputrem 40
+
+MapCode 1851 
+pseumenz 120 130 150 180 220
+
+MapCode 1853 
+pseumenz 70 80 60
+
+MapCode 1855 
+pseumenz 190
+
+MapCode 1852 
+pseumenz 240
+
+MapCode 1854 
+pseumenz 110
+
+MapCode 3002 
+pseumenz 360 320
+
+MapCode 3003 
+pseumenz 50
+
+MapCode 3004 
+pseumenz 60
+
+MapCode 3012 
+pseumenz 80 60
+
+MapCode 2433 
+pseumenz 150
+
+MapCode 2435 
+pseumenz 80 100
+
+MapCode 2434 
+pseumenz 160
+
+MapCode 837371 
+juniocci 40
+
+MapCode 845611 
+juniocci 70
+
+MapCode 845612 
+juniocci 60 40 100
+
+MapCode 850022 
+juniocci 90 80 180 200 110 60
+
+MapCode 850021 
+juniocci 70
+
+MapCode 850024 
+juniocci 50
+
+MapCode 857643 
+juniocci 40
+
+MapCode 874721 
+pseumenz 80 70
+juniocci 70
+
+MapCode 874722 
+pseumenz 60 30 50
+juniocci 60 50
+poputrem 90 80 70
+
+MapCode 874724 
+pseumenz 40
+juniocci 40
+
+MapCode 880071 
+juniocci 80 230 70 130
+
+MapCode 880072 
+juniocci 90
+
+MapCode 880074 
+juniocci 120
+
+MapCode 880073 
+juniocci 50
+
+MapCode 825561 
+juniocci 20 60
+
+MapCode 825562 
+juniocci 40 50
+
+MapCode 826441 
+juniocci 260 110 60 40
+
+MapCode 826442 
+juniocci 50 70
+
+MapCode 826443 
+juniocci 80
+
+MapCode 832751 
+juniocci 50 80 90
+
+MapCode 832753 
+juniocci 40
+
+MapCode 832754 
+juniocci 30
+
+MapCode 832752 
+juniocci 120
+
+MapCode 833501 
+juniocci 50 100
+
+MapCode 833504 
+juniocci 40
+
+MapCode 823111 
+juniocci 100 60
+
+MapCode 823112 
+juniocci 180
+
+MapCode 823114 
+juniocci 110
+
+MapCode 823113 
+juniocci 160
+
+MapCode 857731 
+juniocci 100 260 180 220
+
+MapCode 857732 
+juniocci 110 40
+
+MapCode 857733 
+juniocci 230
+
+MapCode 857734 
+juniocci 130 160
+
+MapCode 804531 
+juniocci 250 110
+
+MapCode 804532 
+juniocci 80
+
+MapCode 804533 
+juniocci 40
+
+MapCode 859991 
+pseumenz 20
+poputrem 30 40
+
+MapCode 859992 
+pseumenz 120
+juniocci 50
+poputrem 80
+
+MapCode 863634 
+juniocci 60 40 90
+
+MapCode 868481 
+juniocci 70 50 60
+
+MapCode 868482 
+juniocci 30 80
+
+MapCode 868484 
+juniocci 100
+
+MapCode 811373 
+pseumenz 30
+
+MapCode 811371 
+juniocci 60 40 70
+
+MapCode 811374 
+juniocci 80 110
+
+MapCode 836831 
+juniocci 50 40
+
+MapCode 836833 
+juniocci 60
+
+MapCode 849371 
+juniocci 110 100 80
+
+MapCode 849372 
+juniocci 250 40
+
+MapCode 853482 
+pseumenz 60
+juniocci 50 30
+poputrem 50
+
+MapCode 876612 
+juniocci 60
+
+MapCode 882351 
+juniocci 50 70 180
+
+MapCode 882352 
+juniocci 90 40 60 150 120 140
+
+MapCode 845854 
+pseumenz 50
+juniocci 90
+
+MapCode 845851 
+juniocci 70
+
+MapCode 845853 
+juniocci 100 110 50 60
+
+MapCode 845852 
+juniocci 40
+
+MapCode 852501 
+juniocci 50
+
+MapCode 852502 
+juniocci 120
+
+MapCode 852503 
+juniocci 40 70
+
+MapCode 875741 
+juniocci 70 60 110
+
+MapCode 875744 
+juniocci 50 100 80
+
+MapCode 879941 
+juniocci 90 50 100 40
+
+MapCode 879942 
+juniocci 130
+
+MapCode 879943 
+juniocci 80
+
+MapCode 879944 
+juniocci 60 70
+
+MapCode 842172 
+juniocci 130 60 90
+
+MapCode 842173 
+juniocci 40 70
+
+MapCode 842174 
+juniocci 80 50
+
+MapCode 858064 
+juniocci 40 50 70 60
+
+MapCode 869311 
+juniocci 250 90
+
+MapCode 869312 
+juniocci 110 120 100 210 230 40 60 150 140
+
+MapCode 869313 
+juniocci 170
+
+MapCode 872551 
+pseumenz 100
+
+MapCode 872554 
+pseumenz 60
+
+MapCode 885834 
+juniocci 60 50
+
+MapCode 823661 
+juniocci 30 60 50
+
+MapCode 823663 
+juniocci 40
+
+MapCode 840662 
+juniocci 80 50
+
+MapCode 840664 
+juniocci 70 100
+
+MapCode 840663 
+juniocci 60 40
+
+MapCode 855303 
+juniocci 100 90 110
+
+MapCode 855304 
+juniocci 40 70
+
+MapCode 864253 
+juniocci 130
+
+MapCode 868972 
+juniocci 50
+
+MapCode 868974 
+juniocci 80 30 60
+
+MapCode 880611 
+juniocci 70 90 40 50
+
+MapCode 880613 
+juniocci 130 100
+
+MapCode 880614 
+juniocci 60
+
+MapCode 880612 
+juniocci 80
+
+MapCode 839593 
+pseumenz 290 60
+juniocci 130
+
+MapCode 839591 
+pseumenz 110
+juniocci 200
+
+MapCode 839594 
+pseumenz 150
+
+MapCode 839592 
+juniocci 240 160
+
+MapCode 842531 
+juniocci 190 200 50
+
+MapCode 842532 
+juniocci 70 100 60
+
+MapCode 842533 
+juniocci 130 170 40 140
+
+MapCode 842534 
+juniocci 80 120
+
+MapCode 856181 
+juniocci 100 50 40 60
+
+MapCode 856182 
+juniocci 80 90
+
+MapCode 856184 
+juniocci 70
+
+MapCode 861812 
+juniocci 80 40 70
+
+MapCode 861814 
+juniocci 50 130
+
+MapCode 861811 
+juniocci 60
+
+MapCode 800462 
+pseumenz 20
+juniocci 70
+
+MapCode 800461 
+juniocci 30 60 50
+
+MapCode 800464 
+juniocci 130
+
+MapCode 800463 
+juniocci 110 100

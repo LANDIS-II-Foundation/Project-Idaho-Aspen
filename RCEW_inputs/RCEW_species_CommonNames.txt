@@ -1,0 +1,8 @@
+>>This file contains common names of all the species that will be modeled in the Reynolds Creek Experimental Watershed in LANDIS-II
+>> LANDIS code    	 Genus      	Species       	Common Name
+>> ------------------------------------------------------------
+   atretrid		 Artemisia      tridentata      Mountain big sagebrush
+   poputrem		 Populus	tremuloides	Quaking aspen
+   pseumenz		 Pseudotsuga	menziesii       Douglas fir
+   abielasi   		 Abies		lasiocarpa	Subaplne fir
+   juniocci 		 Juniperus       occidentalis    Western juniper

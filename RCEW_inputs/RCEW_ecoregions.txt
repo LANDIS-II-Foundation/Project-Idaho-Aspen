@@ -1,0 +1,21 @@
+LandisData  Ecoregions
+
+>>         Map
+>> Active  Code  Name   Description
+>> ------  ----  -----  -----------
+      	  no	 0   eco0   "dead"
+	  yes    1   eco1   "blank"
+      yes    2   eco2   "blank"
+	  yes	 3   eco3   "blank"
+	  yes    4   eco4   "blank"
+	  yes    10  eco5   "blank"
+	  yes    20  eco6   "blank"
+	  yes    30  eco7   "blank"
+	  yes    40  eco8   "blank"
+	  yes	 100 eco9   "blank"
+	  yes    200 eco10  "blank"
+	  yes    300 eco11  "blank"
+	  yes    400 eco12  "blank"
+	  yes	 401 eco13  "snowbanks"
+	  
+ 

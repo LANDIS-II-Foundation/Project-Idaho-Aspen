@@ -1,0 +1,10 @@
+LandisData  "Output Biomass-by-Age"
+
+Timestep   5
+
+MapNames   spp-bio-age/{species}-{ageclass}-{timestep}.img
+
+Species		juniocci ageclass1(10-30) ageclass2(30-50) ageclass3(50-70) ageclass4(70-90) ageclass5(90-110) ageclass6(110-130) ageclass7(130-150) ageclass8(150-170) ageclass9(170-190) ageclass10(190-210) ageclass11(210-230)
+			pseumenz ageclass1(10-30) ageclass2(30-50) ageclass3(50-70) ageclass4(70-90) ageclass5(90-110) ageclass6(110-130) ageclass7(130-150) ageclass8(150-170) ageclass9(170-190) ageclass10(190-210) ageclass11(210-230) ageclass12(230-250) ageclass13(250-270) ageclass14(270-290) ageclass15(290-310) ageclass16(310-330) ageclass17(330-350) ageclass18(350-370) ageclass19(390-410) ageclass20(410-430) ageclass21(430-450) ageclass22(450-470)
+ 			poputrem ageclass1(10-30) ageclass2(30-50) ageclass3(50-70) ageclass4(70-90) ageclass5(90-110) ageclass6(110-120) ageclass7(130-150)
+

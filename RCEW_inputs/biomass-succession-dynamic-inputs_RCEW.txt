@@ -1,0 +1,62 @@
+LandisData  "Dynamic Input Data"
+>>1/28/2016 MaxANPP number are from Ben Soderquist's initial BGC run
+>>MaxB will be derived from those
+>>
+>>
+
+>> Year Ecoregion Species ProbEst MaxANPP 	MaxB 	MortProb
+>> -------- -------------	
+0 eco1  juniocci       0.0		100		288  	0.0
+0 eco1  poputrem       0.0 		204		475 	0.0
+0 eco1  pseumenz       0.0 		411		900	0.0
+0 eco1  xercshrb       0.0  		200		200	0.0
+0 eco2  juniocci       0.0		100		288  	0.0
+0 eco2  poputrem       0.05 	211		475 	0.0
+0 eco2  pseumenz       0.0 		412		900	    0.0
+0 eco2  xercshrb       0.0  	200		200		0.0
+0 eco3  juniocci	   0.0		100		288  	0.0
+0 eco3  poputrem       0.0 		200		475 	0.0
+0 eco3  pseumenz       0.0 		394		900	    0.0
+0 eco3  xercshrb       0.0  	200		200		0.0
+0 eco4  juniocci	   0.0		100		288  	0.0
+0 eco4  poputrem       0.0 		214		475 	0.0
+0 eco4  pseumenz       0.0 		398		900	    0.0
+0 eco4  xercshrb       0.0  	200		200		0.0
+0 eco5  juniocci	   0.1		100		288  	0.0
+0 eco5  poputrem       0.05 		275		475 	0.0
+0 eco5  pseumenz       0.1 		522		900		0.0
+0 eco5  xercshrb       0.1  	200		200		0.0
+0 eco6  juniocci	   0.1		100		288  	0.0
+0 eco6  poputrem       0.05 		262		475 	0.0
+0 eco6  pseumenz       0.1 		509		1100	0.0
+0 eco6  xercshrb       0.1  	200		200		0.0
+0 eco7  juniocci	   0.1		100		288  	0.0
+0 eco7  poputrem       0.05 		233		400 	0.0
+0 eco7  pseumenz       0.1 		486		900		0.0
+0 eco7  xercshrb       0.1  	200		200		0.0
+0 eco8  juniocci	   0.1		100		288  	0.0
+0 eco8  poputrem       0.05 		226		475 	0.1
+0 eco8  pseumenz       0.1 		456		900		0.0
+0 eco8  xercshrb       0.1  	200		200		0.0
+0 eco9  juniocci	   0.1		100		288  	0.0
+0 eco9  poputrem       0.05 		270		475 	0.1
+0 eco9  pseumenz       0.1 		606		1200	0.0
+0 eco9  xercshrb       0.1  	200		200		0.0
+0 eco10  juniocci	   0.1		100		288  	0.0
+0 eco10  poputrem       0.05 	273		475 	0.1
+0 eco10  pseumenz       0.1 	597		1200	0.0
+0 eco10  xercshrb       0.1  	200		200		0.0
+0 eco11  juniocci	   0.1		100		288  	0.0
+0 eco11  poputrem       0.05 	273		475 	0.1
+0 eco11  pseumenz       0.1  	556		1100	0.0
+0 eco11  xercshrb       0.1  	200		200		0.0
+0 eco12  juniocci	   0.1		100		288  	0.0
+0 eco12  poputrem       0.05 	206		475 	0.1
+0 eco12  pseumenz       0.1 	535		1100	0.0
+0 eco12  xercshrb       0.1  	200		200		0.0
+0 eco13  juniocci	   0.1		100		288  	0.0
+0 eco13  poputrem       0.2 	206		475 	0.1
+0 eco13  pseumenz       0.1 	535		1100	0.0
+0 eco13  xercshrb       0.1  	200		200		0.0
+
+                                               
