@@ -1,7 +1,7 @@
 # Project-Idaho-Aspen
 
 # Title: 
-Projecting climate change effects on aspen distribution and productivity in the central and northern Rockies by coupling hydrological and landscape-disturbance models
+Climate change effects on aspen distribution and productivity in the central and northern Rockies:  Coupling hydrological and landscape-disturbance models
 
 # Abstract: 
 Quaking aspen populations are thought to be declining in much of the west due to altered fire regimes, competition with conifers, herbivory, drought, disease, and insect outbreaks. Aspen stands typically support higher avian biodiversity and abundance than surrounding habitat types, and maintaining current distribution and abundance of several avian species in the northern Great Basin is likely tied to the persistence of aspen in the landscape. Aspen can also depend on accumulated snow drifts, which can retain soil moisture well into the spring and summer.
