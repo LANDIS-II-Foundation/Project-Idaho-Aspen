@@ -12,7 +12,7 @@ CellLength  10 << meters, 100 x 100 m = 1 ha
 
 >> Succession Extension     	Initialization File
 >> --------------------     	-------------------
-   "Biomass Succession"    	biomass-succession_RCEW.txt  << v3.2 with 
+   "Biomass Succession"    	biomass-succession_RCEW.txt  << v3.2 modified with mortality, see "Biomass Succession Mortality" installer.
 
 
 >> Disturbance Extensions   	Initialization File
