@@ -2,32 +2,32 @@ LandisData  Scenario
 
 Duration  100
 
-Species   "I:/NWCSC-Idaho/LANDIS_modeling/RCEW/RCEW_species.txt"
+Species   "RCEW_species.txt"
 
-Ecoregions      "I:/NWCSC-Idaho/LANDIS_modeling/RCEW/RCEW_ecoregions.txt"
-EcoregionsMap   "I:/NWCSC-Idaho/LANDIS_modeling/RCEW/RCEW_nolowsnow.img"
+Ecoregions      "RCEW_ecoregions.txt"
+EcoregionsMap   "RCEW_nolowsnow.img"
 
 CellLength  10 << meters, 100 x 100 m = 1 ha
 
 
->> Succession Extension     Initialization File
->> --------------------     -------------------
-   "Biomass Succession"    I:/NWCSC-Idaho/LANDIS_modeling/RCEW/biomass-succession_RCEW.txt
+>> Succession Extension     	Initialization File
+>> --------------------     	-------------------
+   "Biomass Succession"    	biomass-succession_RCEW.txt  << v3.2 with 
 
 
->> Disturbance Extensions   Initialization File
->> ----------------------   -------------------
-"Base Fire"					I:/NWCSC-Idaho/LANDIS_modeling/RCEW/base-fire-RCEW.txt
+>> Disturbance Extensions   	Initialization File
+>> ----------------------   	-------------------
+"Base Fire"			base-fire-RCEW.txt << v3.1
 
 >>   DisturbancesRandomOrder  yes  << optional parameter; default = no
 
 
->> Other Extensions         Initialization File
->> ----------------         -------------------
->>  "Output Biomass"	    I:/NWCSC-Idaho/LANDIS_modeling/RCEW/output-biomass.txt
->>  "Output Biomass-by-Age"    I:/NWCSC-Idaho/LANDIS_modeling/RCEW/output.biomass-by-age.txt
->>  "Output Cohort Statistics"    I:/NWCSC-Idaho/LANDIS_modeling/RCEW/cohort-stats.output.txt
-	"Output Max Species Age"	I:/NWCSC-Idaho/LANDIS_modeling/RCEW/max-spp-age.output.txt
+>> Other Extensions         	Initialization File
+>> ----------------         	-------------------
+>>  "Output Biomass"	    	output-biomass.txt
+>>  "Output Biomass-by-Age"    	output.biomass-by-age.txt
+>>  "Output Cohort Statistics"  cohort-stats.output.txt
+"Output Max Species Age"	max-spp-age.output.txt << v2.1
 	
 >>RandomNumberSeed  4,357  << optional parameter; default = the seed is
                          << randomly generated using the current time
